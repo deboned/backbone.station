@@ -1,6 +1,6 @@
 # backbone.station
 
-A mixin for making life with Backbone.Radio even easier.
+A mixin for making life with [Backbone.Radio](https://github.com/marionettejs/backbone.radio) even easier.
 
 ## Instructions
 
