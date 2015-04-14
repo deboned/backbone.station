@@ -6,7 +6,7 @@
     "moonwave99 <diego.caponera@gmail.com>"
   ],
   "description": "A mixin for making life with Backbone.Radio even easier.",
-  "main": "backbone.radio.js",
+  "main": "backbone.station.js",
   "keywords": [
     "backbone",
     "marionette",
