@@ -58,7 +58,7 @@
         this.channels[channelName][actionType](actionName, targetHandler);      
       });
     },
-    _unsubcribe: function(){
+    _unsubscribe: function(){
       this._walk(function(channelName, actionType, actionName, targetHandler){
         switch(actionType){
           case 'comply':

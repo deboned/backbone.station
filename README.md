@@ -29,8 +29,8 @@ You just need to call the `_initChannels` method in the initialiser, like this:
       this._initChannels.call(this, 'channelName', 'anotherChannelName');
     }
     
-In order to remover listeners on view/object disposal, run `_unsubscribe`:
+In order to remove listeners on view/object disposal, run `_unsubscribe`:
 
     onDestroy: function(){
-      this._unsubcribe.call(this);
+      this._unsubscribe.call(this);
     }
